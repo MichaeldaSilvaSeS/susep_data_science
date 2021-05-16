@@ -1,2 +1,2 @@
-# susep_data_science
-Susep Data Science
+# Projeto Data Science Susep
+Projeto voltado para explorar o portifólio de produtos de seguros utilizando dados públicos
