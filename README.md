@@ -1,2 +1,3 @@
 # Projeto Data Science Susep
-Projeto voltado para explorar o portifólio de produtos de seguros utilizando dados públicos
+Projeto para exploração do portifólio de produtos de seguros utilizando dados públicos da SUSEP
+
